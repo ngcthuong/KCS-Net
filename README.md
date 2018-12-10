@@ -4,7 +4,7 @@ The software reproduces the experiments published in the paper
 * T. N. Canh and B. Jeon, "Deep Learning-Based Kronecker Compressive Imaging", IEE ICCE-Asia, 2018. [[PDF]](https://www.researchgate.net/publication/324969818_Deep_Learning-Based_Kronecker_Compressive_Imaging)
 
 ## Note: 
-Implementation using matconvnet on Matlab 2017a
+Implementation using matconvnet on Matlab 2017a.
 
 ## Disclaimer
 Copyright (c) 2018 Thuong Nguyen Canh
