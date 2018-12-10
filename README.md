@@ -6,7 +6,7 @@ The software reproduces the experiments published in the paper
 ## Note: 
 Implementation using matconvnet on Matlab 2017a
 
-# Disclaimer
+## Disclaimer
 Copyright (c) 2018 Thuong Nguyen Canh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
